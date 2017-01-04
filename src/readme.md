@@ -31,3 +31,23 @@ $ node .
 ```
 
 open `test.htm` in your browser
+
+### build
+
+```
+git clone https://github.com/UsulPro/libpack.git
+```
+
+edit files in `src/`
+
+```
+npm run build
+```
+
+in `dist/` you'll see your package
+
+you can install it locally then:
+
+```
+npm i D:\path-to-project\libpack\ --save
+```
