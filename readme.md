@@ -4,7 +4,7 @@
 npm install git+https://github.com/UsulPro/libpack.git --save
 ```
 
-```
+```javascript
 // index.js:
 
 const fs = require('fs');
