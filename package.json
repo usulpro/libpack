@@ -1,0 +1,17 @@
+{
+  "name": "libpack",
+  "version": "1.0.2",
+  "description": "",
+  "main": "dist/libpack.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "base64-image-loader": "^1.2.0",
+    "css-content-loader": "^1.0.0",
+    "webpack": "^2.2.0-rc.3"
+  }
+}
